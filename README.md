@@ -1,4 +1,4 @@
-### Hi there , seja bem vindo ao meu Github! 🤗
+### Hi there , seja bem vindo (a) ao meu Github! 🤗
 
 <!--
 **ThalitaCeli/ThalitaCeli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
