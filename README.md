@@ -1,7 +1,7 @@
 ## Hello World! 🌎
 
 ### Seja bem vindo(a) ao meu Github! 🤗 
-### Sou Thalita, uma entusiasta no mundo da programação. Estou iniciando meus estudos como desenvolvedora Front-end em HTML5, CSS3 e Javascript. Fique a vontade!
+### Sou Thalita, uma entusiasta no mundo da programação. Iniciei meus estudos com HTML5, CSS3 e Javascript. Ao decorrer da minha carreira, fui me apaixonando pela área de Quality Asssurence e hoje atuo como QA Engineer Intern na Liferay.
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
