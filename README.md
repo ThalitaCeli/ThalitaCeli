@@ -21,7 +21,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thalitac%C3%A9li/)](https://www.linkedin.com/in/thalitac%C3%A9li/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thalitaceli@gmail.com)](mailto:thalitaceli@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/-Thalitaceli-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/ThalitaCeli)](https://twitter.com/ThalitaCeli)
+
 <!--
 **ThalitaCeli/ThalitaCeli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
