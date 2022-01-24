@@ -1,7 +1,7 @@
 ## Hello World! 🌎
 
 ### Seja bem vindo(a) ao meu Github! 🤗 
-### Sou Thalita, uma entusiasta no mundo da programação. Iniciei meus estudos com HTML5, CSS3 e Javascript. Ao decorrer da minha carreira, fui me apaixonando pela área de Quality Assurance e hoje atuo como QA Engineer Intern na Liferay.
+### Sou Thalita, uma entusiasta no mundo da programação. Ao decorrer da minha carreira, fui me apaixonando pela área de Quality Assurance e hoje atuo como QA Analyst na vertical food aiqfome.
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
